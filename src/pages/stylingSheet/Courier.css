@@ -1,0 +1,74 @@
+.overviewcourier
+{
+    font-weight: bold;
+    color: black;
+    font-size: 18px;
+}
+.overviewcourier:hover
+{
+    text-decoration: underline;
+    color: red;
+}
+
+.orderscourier
+{
+    font-weight: bold;
+    color: black;
+    font-size: 18px;
+}
+.orderscourier:hover
+{
+    text-decoration: underline;
+    color: red;
+}
+
+.shipmentscourier
+{
+    font-weight: bold;
+    color: black;
+    font-size: 18px;
+}
+.shipmentscourier:hover
+{
+    text-decoration: underline;
+    color: red;
+}
+
+.couriercourier
+
+{
+    font-weight: bold;
+    color: red;
+    font-size: 18px;
+    text-decoration: underline;
+}
+.couriercourier:hover
+{
+    text-decoration: underline;
+    color: red;
+}
+
+
+.courierdelay
+{
+    font-weight: bold;
+    color: black;
+    font-size: 18px;
+}
+.courierdelay:hover
+{
+    text-decoration: underline;
+    color: red;
+}
+
+.couriertracking
+{
+    font-weight: bold;
+    color: black;
+    font-size: 18px;
+}
+.couriertracking:hover
+{
+    text-decoration: underline;
+    color: red;
+}

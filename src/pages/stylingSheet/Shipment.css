@@ -1,0 +1,64 @@
+.shipment_overview
+{
+    font-weight: bold;
+    color: black;
+    font-size: 18px;
+}
+.shipment_overview:hover
+{
+    color: red;
+    text-decoration: underline;
+}
+
+.shipments
+{   
+    color: red;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 18px;
+}
+.overview
+{
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+
+
+.shipment_courier
+{
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.shipment_courier:hover
+{
+    color: red;
+    text-decoration: underline;
+}
+
+.shipment_delays
+{
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+}
+.shipment_delays:hover
+{ color: red;
+    text-decoration: underline;
+
+}
+
+.shipment_tracking
+{
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+}
+.shipment_tracking:hover
+{
+    text-decoration: underline;
+    color: red;
+}

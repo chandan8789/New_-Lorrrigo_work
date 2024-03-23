@@ -1,0 +1,30 @@
+/* Login.css */
+
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .btn-primary {
+    background-color: #a81a18;
+    outline: none;
+    margin-top: 20px;
+  }
+  .loginbtn
+  {
+    font-weight: bold;
+  }
+  .loginbtn:hover
+  {
+    text-decoration: underline;
+    color: red;
+  }
+  
+  .signupbtn
+  {
+    font-weight: bold;
+  }
+  .signupbtn:hover
+  {
+    text-decoration: underline;
+    color: red;
+  }

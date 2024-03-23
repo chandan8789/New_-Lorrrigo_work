@@ -1,0 +1,121 @@
+.forwardbtn
+{
+    font-size: 18px;
+    font-weight: bold;
+    color: red;
+    text-decoration: underline;
+}
+/* .forwardbtn:hover
+{
+    color: red;
+    text-decoration: underline;
+} */
+.returnbtn
+{
+    font-size: 18px;
+    font-weight: bold;
+}
+.returnbtn:hover
+{
+    color: red;
+    text-decoration: underline;
+}
+.pickupPincode
+{
+    border: 1px solid rgba(193, 57, 43, 0.1);
+    padding: 10px;
+    border-radius: 5px;
+    width: 300px;
+}
+
+.deliveryPincode
+{
+    border: 1px solid rgba(193, 57, 43, 0.1);
+    padding: 10px;
+    border-radius: 5px;
+    width: 300px;
+}
+
+.weightkg
+{
+    padding: 7px;
+    width: 100px;
+    border: 1px solid rgba(193, 57, 43, 0.1);
+    border-radius: 5px 0px 0px 5px;
+}
+.kg
+{
+    border: 1px solid rgba(193, 57, 43, 0.1);
+    padding: 8px;
+    border-radius: 0px 5px 5px 0px;
+    background-color: rgba(193, 57, 43, 0.1);
+}
+.paymenttype
+{
+    font-weight: bold;
+    font-size: 17px;
+}
+.shipmentValue
+{
+    margin-left: 180px;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+.shipmentvalues
+{
+    border-radius: 0px 5px 5px 0px;
+    border: 1px solid rgba(193, 57, 43, 0.1);
+    padding: 8px;
+    width: 300px;
+}
+
+.rupesss
+{
+    border-radius: 5px 0px 0px 5px;
+    border: 1px solid rgba(193, 57, 43, 0.1);
+    padding: 9px;
+    background-color: rgba(193, 57, 43, 0.1);
+
+}
+.fragilegoods
+{
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: 40px;
+}
+.minweight
+{
+    opacity: 0.5;
+    font-size: 13px;
+}
+.dimensional
+{
+    opacity: 0.5;
+    font-size: 13px;
+    margin-left: 22px;
+}
+
+.resetbtn
+{
+    background: rgba(255, 255, 255, 1);
+    box-shadow: 0px -11px 16.600000381469727px 0px rgba(0, 0, 0, 0.22) inset;
+    height: 39px;
+    width: 120px;
+    border-radius: 5px;
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+.calculatebtn
+{
+    box-shadow: 0px -11px 16.600000381469727px 0px rgba(0, 0, 0, 0.22) inset;
+    height: 39px;
+    width: 150px;
+    margin-top: 30px;
+    border-radius: 5px;
+    background: rgba(67, 67, 67, 1);
+    box-shadow: 0px -8px 16.600000381469727px 0px rgba(255, 255, 255, 0.24) inset;
+    color: white;
+    font-weight: bold;
+}

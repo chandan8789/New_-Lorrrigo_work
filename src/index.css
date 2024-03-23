@@ -1,0 +1,158 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Condensed:wght@400;500;700&display=swap");
+
+.hidden-lg {
+  display: none;
+}
+
+.custom-modal {
+  background-color: rgba(255, 255, 255, 0.9); /* Adjust the opacity here */
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2); /* Optional: Add box shadow */
+}
+
+.custom-backdrop {
+  background-color: rgba(0, 0, 0, 0.5); /* Adjust the opacity here */
+}
+
+
+/* LG breakpoint */
+@media (min-width: 1024px) {
+  /* Display block for LG and larger devices */
+  .hidden-lg {
+    display: block;
+  }
+}
+
+.css-zxdg2z {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  background-color: lightgreen;
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+}
+
+/* remittancetable */
+tbody,
+td,
+tfoot,
+th,
+thead,
+tr {
+  border: none !important;
+}
+
+.remittancetable {
+  border: 1px solid;
+}
+
+.halltabledesign {
+  border: 1px solid black;
+}
+
+thead,
+tbody {
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+/* For Billing page */
+.table-container {
+  overflow-x: auto;
+  max-width: 100%;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+@media (max-width: 600px) {
+  th,
+  td {
+    font-size: 14px;
+  }
+}
+
+tbody,
+td,
+tfoot,
+th,
+thead,
+tr {
+  text-align: center;
+}
+table {
+  border: 1px solid;
+}
+.text-center {
+  text-align: center !important;
+  padding: 10%;
+}
+
+.wallethistory:hover {
+  color: red;
+}
+
+/* Create bulk order upload document  */
+
+.choosefile {
+  display: inline-block;
+  /* background-color: indigo; */
+  box-shadow: 0px 0px 2.4000000953674316px 0px rgba(0, 0, 0, 0.26);
+
+  box-shadow: 0px -11px 18px 0px rgba(0, 0, 0, 0.07) inset;
+  height: 30px;
+  width: 130px;
+  font-size: 12px;
+
+  font-weight: bold;
+  color: black;
+  padding: 0.3rem;
+  border-radius: 0.3rem;
+  cursor: pointer;
+  margin-top: 1rem;
+  text-align: center;
+}
+
+/* .input-icons {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.input-icons i {
+  position: absolute;
+}
+
+.icon {
+  padding: 10px;
+  min-width: 50px;
+  text-align: center;
+} */
+
+/* .circle{
+  margin-top: -130px;
+
+} */

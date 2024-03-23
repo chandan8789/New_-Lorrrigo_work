@@ -1,0 +1,187 @@
+.open_supports {
+  cursor: pointer;
+  text-decoration: underline;
+  font-family: IBM Plex Sans Condensed;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: rgba(193, 57, 43, 1);
+}
+
+.resolve_supports {
+  cursor: pointer;
+  font-family: IBM Plex Sans Condensed;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.resolve_supports:hover {
+  color: rgba(193, 57, 43, 1);
+  text-decoration: underline;
+}
+
+.resolve_supports {
+  font-family: IBM Plex Sans Condensed;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 23px;
+  letter-spacing: 0em;
+  text-align: left;
+  cursor: pointer;
+}
+
+.closed_supports:hover {
+  color: rgba(193, 57, 43, 1);
+  text-decoration: underline;
+}
+
+.Need_help {
+  font-family: IBM Plex Sans Condensed;
+  font-size: 26px;
+  font-weight: 600;
+  line-height: 34px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.help_card {
+  width: 85%;
+  background: rgba(193, 57, 43, 0.07);
+  border: none;
+  height: 300px;
+}
+
+.cancel_delivery {
+  padding: 0.86px, 10.31px, 0.86px, 10.31px;
+  border-radius: 22.34px;
+  gap: 8.59px;
+  width: 170px;
+  text-align: center;
+  background-color: white;
+  font-size: 12.5px;
+  cursor: pointer;
+}
+.delay_delivery {
+  padding: 0.86px, 10.31px, 0.86px, 10.31px;
+  border-radius: 22.34px;
+  gap: 8.59px;
+  width: 300px;
+  text-align: center;
+  background-color: white;
+  font-size: 12.5px;
+  cursor: pointer;
+}
+.behavioral {
+  padding: 0.86px, 10.31px, 0.86px, 10.31px;
+  border-radius: 22.34px;
+  gap: 8.59px;
+  width: 240px;
+  text-align: center;
+  background-color: white;
+  font-size: 12.5px;
+  cursor: pointer;
+}
+
+.firstmile {
+  padding: 0.86px, 10.31px, 0.86px, 10.31px;
+  border-radius: 22.34px;
+  gap: 8.59px;
+  width: 270px;
+  text-align: center;
+  background-color: white;
+  font-size: 12.5px;
+  cursor: pointer;
+}
+.shipment_delivered {
+  padding: 0.86px, 10.31px, 0.86px, 10.31px;
+  border-radius: 22.34px;
+  gap: 8.59px;
+  width: 340px;
+  text-align: center;
+  background-color: white;
+  font-size: 12.5px;
+  cursor: pointer;
+}
+.need_reattempt {
+  padding: 0.86px, 10.31px, 0.86px, 10.31px;
+  border-radius: 22.34px;
+  gap: 8.59px;
+  width: 270px;
+  text-align: center;
+  background-color: white;
+  font-size: 12.5px;
+  cursor: pointer;
+}
+.self_collect {
+  padding: 0.86px, 10.31px, 0.86px, 10.31px;
+  border-radius: 22.34px;
+  gap: 8.59px;
+  width: 140px;
+  text-align: center;
+  background-color: white;
+  font-size: 12.5px;
+  cursor: pointer;
+}
+.update_shipment {
+  padding: 0.86px, 10.31px, 0.86px, 10.31px;
+  border-radius: 22.34px;
+  gap: 8.59px;
+  width: 180px;
+  text-align: center;
+  background-color: white;
+  font-size: 12.5px;
+  cursor: pointer;
+}
+.tech_support {
+  padding: 0.86px, 10.31px, 0.86px, 10.31px;
+  border-radius: 22.34px;
+  gap: 8.59px;
+  width: 110px;
+  text-align: center;
+  background-color: white;
+  font-size: 12.5px;
+  cursor: pointer;
+}
+.account {
+  padding: 0.86px, 10.31px, 0.86px, 10.31px;
+  border-radius: 22.34px;
+  gap: 8.59px;
+  width: 80px;
+  text-align: center;
+  background-color: white;
+  font-size: 12.5px;
+  cursor: pointer;
+}
+.delay_in_delivery {
+  float: right;
+  margin-top: 20px;
+  margin-right: 30px;
+}
+.help_cards {
+  border: none;
+  background: rgba(193, 57, 43, 0.07);
+}
+.consignee_pickup {
+  padding: 0.86px, 10.31px, 0.86px, 10.31px;
+  border-radius: 22.34px;
+  width: 260px;
+  font-size: 12.5px;
+  cursor: pointer;
+  height: 5px;
+}
+.marcha_09 {
+  margin: 0px;
+  font-size: 11px;
+  opacity: 0.7;
+}
+
+.help_card_more {
+  border: none;
+  background: rgba(193, 57, 43, 0.07);
+  height: 100px;
+}

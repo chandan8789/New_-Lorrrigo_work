@@ -1,0 +1,82 @@
+.overviewtracking
+{
+    color: black;
+    font-size: 18px;
+}
+.overviewtracking:hover
+{
+    text-decoration: underline;
+    color: red;
+}
+
+.ordertracking
+{
+    color: black;
+    font-size: 18px;
+}
+.ordertracking:hover
+{
+    text-decoration: underline;
+    color: red;
+}
+
+.shipmentstracking
+{
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+}
+.shipmentstracking:hover
+{
+    text-decoration: underline;
+    color: red;
+}
+
+.rtotracking
+{
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+}
+.rtotracking:hover
+{
+    text-decoration: underline;
+    color: red;
+}
+
+.couriertracking
+{
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+}
+.couriertracking:hover
+{
+    text-decoration: underline;
+    color: red;
+}
+
+.delaytracking
+{
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+}
+.delaytracking:hover
+{
+    text-decoration: underline;
+    color: red;
+}
+
+.trackingtracking
+{
+    color: red;
+    font-size: 18px;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.trackingtracking:hover
+{
+    text-decoration: underline;
+    color: red;
+}

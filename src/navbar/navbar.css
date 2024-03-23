@@ -1,0 +1,63 @@
+.MuiDrawer-paperAnchorLeft {
+  background-color: black !important;
+}
+/* .nav-icon{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+
+.all_icons i {
+  color: white;
+  display: flex;
+  margin-top: 40px;
+  font-size: 25px;
+  margin-left: 20px;
+  transition: transform 0.1s ease-in-out;
+}
+.all_icons i:hover {
+  color: #c1392b;
+  opacity: 1;
+  transform: scale(1.4);
+}
+
+.dashboard {
+  margin-left: 19px;
+  text-decoration: none;
+  list-style: none;
+  color: white;
+  margin-top: 40px;
+  text-decoration: none;
+  transition: transform 0.1s ease-in-out;
+}
+.dashboard:hover {
+  color: #c1392b;
+  opacity: 1;
+  transform: scale(1.1);
+}
+
+.recharge_wallet {
+  color: red;
+  font-size: 15px;
+}
+
+.sign_Upbtn {
+  color: black;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 5px 5px 5px 5px;
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+}
+.sign_Upbtn:hover {
+  color: white;
+  background-color: red;
+}
+.rechargessss {
+  background-color: white;
+}
+.rechargessss:hover {
+  background-color: #c1392b;
+  color: white;
+}

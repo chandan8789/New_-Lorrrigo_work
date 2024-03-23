@@ -1,0 +1,6 @@
+@media screen and (max-width: 360px){
+    #main_class{
+        width: 200px;
+        margin-right: 50px;
+    }
+}

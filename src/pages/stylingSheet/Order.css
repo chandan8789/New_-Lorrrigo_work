@@ -1,0 +1,69 @@
+.order_overview
+{
+    font-weight: bold;
+    color: black;
+    font-size: 18px;
+}
+
+.order_button
+{   
+    color: red;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 18px;
+}
+.order_shipments
+{
+    font-weight: bold;
+    color: black;
+    font-size: 18px;
+}
+.order_shipments:hover
+{
+    text-decoration: underline;
+    color: red;
+}
+
+.orderrto
+{
+    font-weight: bold;
+    color: black;
+}
+.orderrto:hover
+{
+    text-decoration: underline;
+    color: red;
+}
+
+.ordercourier
+{
+    font-weight: bold;
+    font-size: 18px;
+    color: black;
+}
+.ordercourier:hover
+{
+    text-decoration: underline;
+    color: red;
+}
+.orderdelay
+{
+    font-weight: bold;
+    font-size: 18px;
+}
+.orderdelay:hover
+{
+    text-decoration: underline;
+    color: red;
+}
+
+.ordertracking
+{
+    font-weight: bold;
+    font-size: 18px;
+}
+.ordertracking:hover
+{
+    text-decoration: underline;
+    color: red;
+}

@@ -1,0 +1,69 @@
+.shipmentsRTO
+{
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+}
+.returnorder
+{
+    
+    color: red;
+    font-weight: bold;
+    font-size: 18px;
+    text-decoration: underline;
+
+}
+.returnorder:hover
+{
+    color: red;
+    text-decoration: underline;
+
+}
+
+.shipment_rto
+{
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+    
+}
+.shipment_rto:hover
+{
+    color: red;
+    text-decoration: underline;
+}
+.rtocourier
+{
+    font-weight: bold;
+    font-size: 18px;
+    color: black;
+}
+.rtocourier:hover
+{
+    color: red;
+    text-decoration: underline;
+}
+
+.rtodelay
+{
+    font-weight: bold;
+    font-size: 18px;
+    color: black;
+}
+.rtodelay:hover
+{
+    color: red;
+    text-decoration: underline;
+}
+
+.rtotracking
+{
+    font-weight: bold;
+    font-size: 18px;
+    color: black;
+}
+.rtotracking:hover
+{
+    color: red;
+    text-decoration: underline;
+}

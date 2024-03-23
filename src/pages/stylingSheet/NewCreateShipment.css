@@ -1,0 +1,381 @@
+
+.col
+{
+    display: flex;
+    justify-content: space-around;
+}
+.orderReference
+{
+    padding: 8px 0 10px 10px;
+    width: 500px;
+    border-radius: 3px;
+    opacity: 0.5;
+    font-size: 14px;
+    box-shadow: 2px 2px 5px 2px rgb(212, 208, 208);
+}
+.tax
+{
+    opacity: 0.5;
+    font-size: 14px;
+}
+.OrderFirstInput
+{ font-size: 15px;
+    width:682px;
+    outline: none;
+    height: 40px;
+    box-shadow: 2px 2px 5px 2px rgb(212, 208, 208);
+    outline-width: 0.5;
+    border: 0px;
+    border-radius: 5px;
+    padding: 10px 0px 10px 10px;
+}
+.OrderID
+{ font-size: 15px;
+    width:682px;
+    outline: none;
+    height: 40px;
+    box-shadow: 2px 2px 5px 2px rgb(212, 208, 208);
+    outline-width: 0.5;
+    border: 0px;
+    border-radius: 5px;
+    padding: 10px 0px 10px 10px;
+    text-align: center;
+    font-size: 15px;
+}
+.OrderIDReference
+{
+    font-size: 15px;
+    width: 328px;
+    outline: none;
+    height: 40px;
+    box-shadow: 2px 2px 5px 2px rgb(212, 208, 208);
+    outline-width: 0.5;
+    border: 0px;
+    border-radius: 5px;
+    padding: 10px 0px 10px 10px; 
+}
+.ItemCount
+{
+    font-size: 15px;
+    width: 87px;
+    outline: none;
+    height: 39px;
+    box-shadow: 2px 2px 5px 2px rgb(212, 208, 208);
+    outline-width: 0.5;
+    border: 0px;
+    border-radius: 5px;
+    padding: 10px 0px 10px 10px; 
+    
+}
+.HSNCode
+{
+    
+    font-size: 15px;
+    width: 328px;
+    outline: none;
+    height: 40px;
+    box-shadow: 2px 2px 5px 2px rgb(212, 208, 208);
+    outline-width: 0.5;
+    border: 0px;
+    border-radius: 5px;
+    padding: 10px 0px 10px 10px; 
+}
+.shipmentvalue
+{ font-size: 15px;
+    width: 159px;
+    outline: none;
+    height: 39px;
+    box-shadow: 2px 2px 5px 2px rgb(212, 208, 208);
+    outline-width: 0.5;
+    border: 0px;
+    border-radius: 5px;
+    padding: 10px 0px 10px 10px; 
+
+}
+.shipment
+{
+    border: 1px;
+    height: 108px;
+    width: 682px;
+    background-color: #EDEFEF82;
+    
+}
+
+.facility
+{
+    font-size: 13px;
+    width:178px;
+    outline: none;
+    font-weight: 600;
+    height: 34px;
+    box-shadow: 2px 2px 5px 2px rgb(212, 208, 208);
+    outline-width: 0.5;
+    border: 0px;
+    border-radius: 5px;
+    padding: 10px 0px 10px 10px;
+    margin-left: 18px;
+}
+.addseller
+{
+    background: rgba(237, 237, 237, 1);
+    width: 167px;
+    height: 25px;
+    border-radius: 3px;
+}
+.details
+{
+    color: rgba(8, 23, 155, 1);
+    font-size: 12px;
+    text-align: center;
+    align-items: center;
+    margin-left: 5px;
+    line-height: 10px;
+    cursor: pointer;
+}
+.customer
+{
+    color: rgba(8, 23, 155, 1);
+    font-size: 12px;
+    cursor: pointer;   
+    line-height: 10px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.ProductCat
+{
+    font-size: 15px;
+    width:500px;
+    outline: none;
+    height: 45px;
+    box-shadow: 2px 2px 5px 2px rgb(212, 208, 208);
+    outline-width: 0.5;
+    border: 0px;
+    border-radius: 5px;
+    padding: 10px 0px 10px 10px;
+
+}
+.payment
+{
+    font-size: 15px;
+    width: 328px;
+    outline: none;
+    height: 40px;
+    box-shadow: 2px 2px 5px 2px rgb(212, 208, 208);
+    outline-width: 0.5;
+    border: 0px;
+    border-radius: 5px;
+    padding: 10px 0px 10px 10px; 
+}
+.shipping
+{ font-size: 15px;
+    width:100%;
+    outline: none;
+    height: 100%;
+    box-shadow: 2px 2px 5px 2px rgb(212, 208, 208);
+    outline-width: 0.5;
+    border: 0px;
+    border-radius: 5px;
+    padding: 10px 0px 10px 10px;
+
+}
+.weight
+{
+    font-size: 12px;
+    width:70%;
+    outline: none;
+    height: 45px;
+    box-shadow: 2px 2px 5px 2px rgb(212, 208, 208);
+    outline-width: 0.5;
+    border: 0px;
+    border-radius: 5px;
+    padding: 10px 0px 10px 10px;
+}
+
+
+.cancel_button
+{
+    background: rgba(255, 255, 255, 1);
+    box-shadow: 0px -11px 16.600000381469727px 0px rgba(0, 0, 0, 0.22) inset;
+    height: 39px;
+    width: 125px;
+    border-radius: 5px;
+    margin-top: 50px;
+    margin-left: 110px;
+}
+.create_shipment
+{
+    box-shadow: 0px -11px 16.600000381469727px 0px rgba(0, 0, 0, 0.22) inset;
+    height: 39px;
+    width: 199px;
+    margin-top: 50px;
+    border-radius: 5px;
+    background: rgba(67, 67, 67, 1);
+    box-shadow: 0px -8px 16.600000381469727px 0px rgba(255, 255, 255, 0.24) inset;
+    color: white;
+}
+
+
+.create_shipment_dropdown
+{
+    padding: 5px;
+    border-radius: 5px;
+    width: 210px;
+    box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.25);
+}
+
+/* .createshipment
+{
+    margin-right: 100px;
+} */
+/* @media screen and (min-width:360px){
+    .container{
+        display: flex;
+    }
+  
+}
+@media only screen and (max-width: 1200px) {
+    body {
+      background-color: lightblue;
+    }
+  } */
+    
+
+  /* here are using for circle range css in Select Courier Partner */
+.All_buttonActive
+{
+    color: red;
+    text-decoration-line: underline;
+
+}
+.All_button:hover
+{
+    color: red;
+}
+
+/* App.css */
+/* @media (max-width: 767.98px) {
+    .table-responsive {
+      width: 100%;
+      margin-bottom: 1rem;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+    }
+  } */
+
+
+  /* App.css */
+/* App.css */
+
+
+
+body{
+
+    background: #d1d5db;
+}
+
+.height{
+
+    height: 20vh;
+}
+
+.form{
+
+    position: relative;
+}
+
+.form .fa-search{
+
+    position: absolute;
+    top:12px;
+    left: 20px;
+    /* color: #9ca3af; */
+    /* color: red; */
+    color: #8E8E8E;
+
+
+}
+
+.form-input{
+
+    text-indent: 33px;
+    border-radius: 10px;
+}
+
+.form-input:focus{
+
+    box-shadow: none;
+    border:none;
+}
+
+.table
+{
+    margin-top:10px;
+    text-decoration: none;
+}
+.table1
+{
+    border: 1px solid;
+    margin-top:20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Reverse */
+.forwarreverse
+{
+    font-size: 18px;
+    color: black;
+    font-weight: bold;
+    /* text-decoration: underline; */
+}
+.forwarreverse:hover
+{
+    color: red;
+    text-decoration: underline;
+}
+.reversebtn
+{
+    font-size: 18px;
+    color: red;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.returnbtn
+{
+    color: black;
+}
+.returnbtn:hover
+{
+    color: red;
+    text-decoration: underline;
+}

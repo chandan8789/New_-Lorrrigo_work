@@ -1,0 +1,131 @@
+#body
+{
+   overflow: auto;
+}
+
+
+.overviewrto
+{
+    font-weight: bold;
+    color: black;
+    font-size: 18px;
+}
+.overviewrto:hover
+{
+    text-decoration: underline;
+    color: red;
+}
+
+.overview_button
+{
+    color: red;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 18px;
+}
+.overview_button:hover
+{
+    color: red;
+    text-decoration: underline;
+}   
+.order_overview
+{
+    font-weight: bold;
+    color: black;
+    font-size: 18px;
+}
+
+.order_overview:hover
+{
+    color: red;
+    text-decoration: underline;
+}
+
+.shipment_overview
+{
+    font-weight: bold;
+    color: black;
+    font-size: 18px;
+}
+
+.overivewcourier
+{
+    font-weight: bold;
+    color: black;
+    font-size: 18px;
+}
+.overivewcourier:hover
+{
+    text-decoration: underline;
+    color: red;
+}
+.overviewdelay
+{
+    font-weight: bold;
+    font-size: 18px;
+    color: black;
+}
+.overviewdelay:hover
+{
+    text-decoration: underline;
+    color: red;
+}
+.overviewtracking
+{
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+}
+.overviewtracking:hover
+{
+    color: red;
+    text-decoration: underline;
+}
+
+.overviewInput
+{
+    width: 500px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.inputiconoverview 
+{
+    margin-left: -30px;
+    font-size: 15px;
+}
+
+
+.create_b2b_order
+{
+    padding: 8px 10px;
+    font-weight: 500;
+    background-color: #C1392BF0;
+    border-radius: 10px;
+    color: white;
+
+}
+.create_b2b_order:hover
+{
+    border-radius: 10px;
+    transition: ease 1s;
+    background-color: rgb(53, 53, 53);
+}
+
+.create_b2c_order
+{
+    padding: 8px 10px;
+    background-color: #C1392BF0;
+    font-weight: 500;
+    border-radius: 10px;
+    color: white;
+    float: inline-end;
+    margin-left: 10px;
+
+}
+.create_b2c_order:hover
+{
+    color:white;
+    transition: ease 1s;
+    background-color: rgb(53, 53, 53);
+}
+

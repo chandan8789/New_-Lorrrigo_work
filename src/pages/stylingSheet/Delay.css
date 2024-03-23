@@ -1,0 +1,88 @@
+.overviewdelay
+{
+    font-weight: bold;
+    font-size: 18px;
+}
+.overviewdelay:hover
+{
+    text-decoration: underline;
+    color: red;
+}
+
+.orderdelay
+{
+    font-weight: bold;
+    font-size: 18px;
+    color: black;
+}
+.orderdelay:hover
+{
+    text-decoration: underline;
+    color: red;
+}
+
+.shipmentsdelay
+{
+    font-weight: bold;
+    font-size: 18px;
+    color: black;
+}
+.shipmentsdelay:hover
+{
+    text-decoration: underline;
+    color: red;
+}
+
+.rtodelay
+{
+    font-weight: bold;
+    font-size: 18px;
+}
+.rtodelay:hover
+{
+    text-decoration: underline;
+    color: red;
+}
+
+.rtodelay
+{
+    font-weight: bold;
+    font-size: 18px;
+}
+.rtodelay:hover
+{
+    text-decoration: underline;
+    color: red;
+}
+
+.courierdelay
+{
+    font-weight: bold;
+    font-size: 18px;
+}
+.courierdelay:hover
+{
+    text-decoration: underline;
+    color: red;
+}
+
+.delaydelay
+{
+    font-size: 18px;
+    color: red;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.trackingdelay
+{
+    font-weight: bold;
+    font-size: 18px;
+    color: black;
+}
+.trackingdelay:hover
+{
+    text-decoration: underline;
+    color: red;
+}
+
